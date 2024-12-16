@@ -1,3 +1,7 @@
+--#########################################
+-- Terminator Resistance VR - CJ117
+--#########################################
+
 local api = uevr.api
 local params = uevr.params
 local callbacks = params.sdk.callbacks
