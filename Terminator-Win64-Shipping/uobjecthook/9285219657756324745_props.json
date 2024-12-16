@@ -1,0 +1,26 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "FPPHudWidget",
+        "Properties",
+        "CurrentReticle"
+    ],
+    "properties": [
+        {
+            "data": 1148846080,
+            "name": "MinPixelSpread"
+        },
+        {
+            "data": 1148846080,
+            "name": "PixelSpreadPerDegree"
+        },
+        {
+            "data": 4294967295,
+            "name": "Priority"
+        }
+    ],
+    "type": "properties"
+}

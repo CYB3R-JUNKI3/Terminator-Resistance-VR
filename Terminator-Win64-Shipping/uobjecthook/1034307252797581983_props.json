@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent",
+        "Properties",
+        "CurrentWeapon"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bHasPerfectAim"
+        }
+    ],
+    "type": "properties"
+}

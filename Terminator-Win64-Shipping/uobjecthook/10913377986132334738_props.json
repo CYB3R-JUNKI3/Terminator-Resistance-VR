@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent",
+        "Properties",
+        "InitialWeapon",
+        "Properties",
+        "WeaponMesh",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,24 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "MagnetismUnaimedMultiplier"
+        },
+        {
+            "data": 0,
+            "name": "MaxMagnetismAcceleration"
+        },
+        {
+            "data": 0,
+            "name": "MaxMagnetismSlowdown"
+        }
+    ],
+    "type": "properties"
+}

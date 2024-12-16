@@ -1,0 +1,26 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Flashlight",
+        "Properties",
+        "RelativeLocation"
+    ],
+    "properties": [
+        {
+            "data": 3237247713,
+            "name": "X"
+        },
+        {
+            "data": 3240372470,
+            "name": "Z"
+        },
+        {
+            "data": 3231145001,
+            "name": "Y"
+        }
+    ],
+    "type": "properties"
+}

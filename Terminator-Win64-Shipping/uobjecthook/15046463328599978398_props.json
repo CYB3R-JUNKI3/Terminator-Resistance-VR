@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "FPPMesh",
+        "Properties",
+        "AttachParent",
+        "Properties"
+    ],
+    "properties": [
+        {
+            "data": 1088421888,
+            "name": "Z"
+        }
+    ],
+    "type": "properties"
+}

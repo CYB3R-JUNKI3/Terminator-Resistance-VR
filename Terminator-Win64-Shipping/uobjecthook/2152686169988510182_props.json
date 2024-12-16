@@ -1,0 +1,26 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent",
+        "Properties",
+        "ShootingSnapSettings"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "SnapSpeed"
+        },
+        {
+            "data": 0,
+            "name": "SnapStartTreshold"
+        },
+        {
+            "data": 0,
+            "name": "SnapTime"
+        }
+    ],
+    "type": "properties"
+}

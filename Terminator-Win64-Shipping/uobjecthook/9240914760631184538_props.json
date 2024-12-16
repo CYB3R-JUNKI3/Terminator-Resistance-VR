@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "CharacterMovement"
+    ],
+    "properties": [
+        {
+            "data": 1060320051,
+            "name": "CrouchTime"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,30 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "AimingSwayX"
+        },
+        {
+            "data": 0,
+            "name": "AimingSwayY"
+        },
+        {
+            "data": 0,
+            "name": "HipsSwayX"
+        },
+        {
+            "data": 0,
+            "name": "HipsSwayY"
+        },
+        {
+            "data": 1110704128,
+            "name": "CrouchedEyeHeight"
+        }
+    ],
+    "type": "properties"
+}

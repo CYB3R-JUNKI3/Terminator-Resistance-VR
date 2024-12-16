@@ -1,0 +1,20 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "WeaponComponent",
+        "Properties",
+        "CurrentWeapon",
+        "Properties",
+        "WeaponConfig"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "bUseSpread"
+        }
+    ],
+    "type": "properties"
+}

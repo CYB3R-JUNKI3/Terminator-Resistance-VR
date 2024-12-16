@@ -1,0 +1,32 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "PawnInteractionComponent",
+        "Properties",
+        "InteractionWith",
+        "Properties",
+        "MinigameActor",
+        "Components",
+        "SceneComponent DefaultSceneRoot",
+        "Properties",
+        "RelativeLocation"
+    ],
+    "properties": [
+        {
+            "data": 1090540012,
+            "name": "Y"
+        },
+        {
+            "data": 3250202870,
+            "name": "Z"
+        },
+        {
+            "data": 1138558239,
+            "name": "X"
+        }
+    ],
+    "type": "properties"
+}
