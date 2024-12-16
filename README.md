@@ -38,6 +38,35 @@ download_depot 954740 954741 6319668420982262798
 
 ---
 
+# Installation
+
+### Optional Terminator Resistance VR menu mod:
+
+**(Simply adds "VR" to the Main Menu)**
+
+- Download and unzip "TerminatorVR_Menu.zip"
+- Drop the "Terminator" folder into your "Terminator Resistance" folder
+
+
+### Optional Aiming Only Crosshair Mod:
+
+**(Crosshair that only appears when you aim)**
+
+- Download and unzip "TerminatorAimCrosshair_v1028.zip"
+- Drop the "Terminator" folder into your "Terminator Resistance" folder
+
+
+### Optional OpenXR Index Controller Plugin by Markmon (I am personally using this):
+
+- https://github.com/mark-mon/uevr-index-controls/releases/tag/v1.4
+
+
+### Terminator Resistance Profile:
+
+- Simply Download "Terminator-Win64-Shipping.zip", Import and Inject
+
+---
+
 Thank you AcknowledgedPawn for your valuable feedback and testing :pray: 
 
 ----
