@@ -40,30 +40,8 @@ download_depot 954740 954741 6319668420982262798
 
 # Installation
 
-### Optional Terminator Resistance VR menu mod:
+All installation info is <a href="https://github.com/CYB3R-JUNKI3/Terminator-Resistance-VR/releases" target="_blank">HERE in Releases section</a>.
 
-**(Simply adds "VR" to the Main Menu)**
-
-- Download and unzip "TerminatorVR_Menu.zip"
-- Drop the "Terminator" folder into your "Terminator Resistance" folder
-
-
-### Optional Aiming Only Crosshair Mod:
-
-**(Crosshair that only appears when you aim)**
-
-- Download and unzip "TerminatorAimCrosshair_v1028.zip"
-- Drop the "Terminator" folder into your "Terminator Resistance" folder
-
-
-### Optional OpenXR Index Controller Plugin by Markmon (I am personally using this):
-
-- https://github.com/mark-mon/uevr-index-controls/releases/tag/v1.4
-
-
-### Terminator Resistance Profile:
-
-- Simply Download "Terminator-Win64-Shipping.zip", Import and Inject
 
 ---
 
@@ -81,6 +59,8 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 - CameraUpOffset
 - CameraForwardOffset
 - CameraRightOffset
+----
+
 
 
 ## Controls
@@ -93,6 +73,8 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 - Sprint mapped to Right Thumb-Stick ↑ 
 - Ultra-Vision/Camera mapped to Right Thumb-Stick ↓
+----
+
 
 
 ## Weapon Wheel
@@ -108,6 +90,8 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 - Change ← Offensive | Defensive →
 
     This also works when at the Shelter and Hideout (when the weapon wheel does NOT show) so you can enable flashlight or open inventory. 
+----
+
 
 
 ## Camera Control (NOT UltraVision)
@@ -121,19 +105,23 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
     (View will NOT change, you will hear a Click to signify zoom was clicked)
   
     Once you let go of the Right Stick, you can move around normally. 
+----
+
 
 
 ## Weapon Melee Gesture
     This may  take a bit of getting used too. 
     Try not to swing "through" an object, .. 
     Instead, Swing and stop the controller pointing at the object you want to hit. 
+----
+
 
 
 ## Recenter/Re-calibrate (standing or sitting)
 - Quickly press Left+Right Trigger during menus/cut-scenes/interactions
 - Also resets standing height and position
 - If Inventory/Pause screen is not centered, press Left+Right Trigger
-
+----
 
 
 ## Other Features
@@ -154,6 +142,7 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 - Fixed LOD/Draw distance changes when aiming
 - Some cvar tweaks
 - _Much more, .. Too many to list_
+----
 
 
 ## Important Notes / FAQ's
