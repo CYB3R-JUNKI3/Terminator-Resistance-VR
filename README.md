@@ -86,7 +86,7 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
     Left Thumb-Stick switches to a D-Pad, allowing you to select: 
 
-- ↓ Flashlight
+- ↓ Flashlight (hold for 1 second)
 - ↑ Inventory
 - Change ← Offensive | Defensive →
 
