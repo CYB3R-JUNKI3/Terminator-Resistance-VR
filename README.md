@@ -1,4 +1,4 @@
-# Terminator-Resistance-VR
+# Terminator Resistance VR
 6DOF Motion Controller UEVR Profile + VR Fix Mod
 ## Requires UEVR 1.05 (or Nightly)
 https://github.com/praydog/UEVR
