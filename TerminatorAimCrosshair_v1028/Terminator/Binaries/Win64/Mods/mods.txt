@@ -1,7 +1,7 @@
 CheatManagerEnablerMod : 0
 ActorDumperMod : 0
-ConsoleCommandsMod : 1
-ConsoleEnablerMod : 1
+ConsoleCommandsMod : 0
+ConsoleEnablerMod : 0
 SplitScreenMod : 0
 LineTraceMod : 0
 BPModLoaderMod : 1
