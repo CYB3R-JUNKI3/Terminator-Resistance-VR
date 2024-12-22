@@ -147,6 +147,11 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 
 ## Important Notes / FAQ's
+:question: _SteamVR keeps launching when I start the game after downgrading_
+
+:bulb: Add "-nohmd" to the game's Launch Properties
+
+---
 
 :question: _Game is crashing and/or won't launch after downgrading_
 
