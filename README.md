@@ -41,7 +41,7 @@ download_depot 954740 954741 6319668420982262798
 -->
 
 # Installation
-### IMPORTANT - If you used the older v1028 profile/mods, you NEED to remove it first
+### IMPORTANT - If you used the older v1028 profile/mods, you NEED to remove them first
 (This includes the optional VR Menu mod and Aiming Crosshair mod)
 <details>
 
