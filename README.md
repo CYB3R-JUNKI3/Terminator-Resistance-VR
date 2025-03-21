@@ -49,17 +49,17 @@ download_depot 954740 954741 6319668420982262798
 
 1)  [Profile] Delete/Rename the folder "Terminator-Win64-Shipping" in your UEVR "Global Dir"
 
-2)  [Crosshair mod] Delete the following files/folder in "Terminator\Binaries\Win64": 
+2a)  [Crosshair mod] Delete the following files/folder in "Terminator\Binaries\Win64": 
 ```
 (Folder) -> Mods
 (File)   -> UE4SS-settings.ini
 (File)   -> xinput1_3.dll
 ```
-3)  [Crosshair mod] Delete the following folder in "Terminator\Content\Paks": 
+2b)  [Crosshair mod] Delete the following folder in "Terminator\Content\Paks": 
 ```
 (Folder) -> LogicMods
 ```
-5)  [VR Menu mod] Delete the following file in "Terminator\Content\Paks":
+3)  [VR Menu mod] Delete the following file in "Terminator\Content\Paks":
 ```
 (File) -> CusLogo_P.pak
 ```
