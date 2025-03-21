@@ -11,15 +11,15 @@
     "properties": [
         {
             "data": 1065353216,
-            "name": "X"
-        },
-        {
-            "data": 1065353216,
             "name": "Y"
         },
         {
             "data": 1065353216,
             "name": "Z"
+        },
+        {
+            "data": 1065353216,
+            "name": "X"
         }
     ],
     "type": "properties"

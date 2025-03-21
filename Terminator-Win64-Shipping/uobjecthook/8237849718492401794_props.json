@@ -1,0 +1,22 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "PawnInteractionComponent",
+        "Properties",
+        "InteractionWith",
+        "Properties",
+        "MinigameActor",
+        "Properties",
+        "SkeletalMeshComponentPermaTicked"
+    ],
+    "properties": [
+        {
+            "data": 1,
+            "name": "bAbsoluteScale"
+        }
+    ],
+    "type": "properties"
+}

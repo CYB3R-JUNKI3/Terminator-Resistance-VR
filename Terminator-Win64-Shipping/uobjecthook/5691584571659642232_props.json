@@ -1,0 +1,28 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "PawnInteractionComponent",
+        "Properties",
+        "InteractionWith",
+        "Properties",
+        "MinigameActor",
+        "Properties",
+        "SkeletalMeshComponentPermaTicked",
+        "Properties",
+        "RelativeLocation"
+    ],
+    "properties": [
+        {
+            "data": 1138502533,
+            "name": "X"
+        },
+        {
+            "data": 1088421888,
+            "name": "Y"
+        }
+    ],
+    "type": "properties"
+}

@@ -1,0 +1,22 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SkeletalMeshComponent FPPMesh",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "AttachParent",
+        "Properties",
+        "RelativeScale3D"
+    ],
+    "properties": [
+        {
+            "data": 1065353216,
+            "name": "X"
+        }
+    ],
+    "type": "properties"
+}

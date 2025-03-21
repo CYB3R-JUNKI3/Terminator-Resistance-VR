@@ -1,0 +1,16 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "PlayerCameraManager"
+    ],
+    "properties": [
+        {
+            "data": 1125515264,
+            "name": "DefaultFOV"
+        }
+    ],
+    "type": "properties"
+}

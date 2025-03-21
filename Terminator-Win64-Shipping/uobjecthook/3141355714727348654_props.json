@@ -1,0 +1,28 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "PawnInteractionComponent",
+        "Properties",
+        "InteractionWith",
+        "Properties",
+        "LockpickActor",
+        "Properties",
+        "SkeletalMeshLock",
+        "Properties",
+        "RelativeLocation"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "Y"
+        },
+        {
+            "data": 1116475228,
+            "name": "X"
+        }
+    ],
+    "type": "properties"
+}
