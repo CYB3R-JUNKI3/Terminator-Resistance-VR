@@ -3,7 +3,7 @@
 ## Requires UEVR 1.05 (or Nightly)
 https://github.com/praydog/UEVR
 
-
+<!-- 
 ## For Terminator Resistance v1028 ONLY
 
 To downgrade from the latest version, here is a great guide posted by Markmon:
@@ -38,13 +38,34 @@ download_depot 954740 954741 6319668420982262798
 (Source - https://discord.com/channels/747967102895390741/1095016511103569951/1225089854094704751)
 
 ---
+-->
 
 # Installation
+### IMPORTANT - If you used the older v1028 profile/mods, you NEED to remove it first
+(This includes the optional VR Menu mod and Aiming Crosshair mod)
+<details>
 
-All installation info is <a href="https://github.com/CYB3R-JUNKI3/Terminator-Resistance-VR/releases" target="_blank">HERE in Releases section</a>.
+<summary>How to remove the previous v1028 profile and mods</summary>
 
+1)  [Profile] Delete/Rename the folder "Terminator-Win64-Shipping" in your UEVR "Global Dir"
 
----
+2)  [Crosshair mod] Delete the following files/folder in "Terminator\Binaries\Win64": 
+```
+(Folder) -> Mods
+(File)   -> UE4SS-settings.ini
+(File)   -> xinput1_3.dll
+```
+3)  [Crosshair mod] Delete the following folder in "Terminator\Content\Paks": 
+```
+(Folder) -> LogicMods
+```
+5)  [VR Menu mod] Delete the following file in "Terminator\Content\Paks":
+```
+(File) -> CusLogo_P.pak
+```
+</details>
+
+----
 
 Thank you AcknowledgedPawn for your valuable feedback and testing :pray: 
 
@@ -110,10 +131,11 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 
 
-## Weapon Melee Gesture
-    This may  take a bit of getting used too. 
-    Try not to swing "through" an object, .. 
-    Instead, Swing and stop the controller pointing at the object you want to hit. 
+## Melee Gesture
+- Swing your Right Controller in ANY direction
+- Stop your Right Controller pointing at the object/enemy you wish to hit
+- Melee will trigger
+####  (In game Melee (Y button) still works as intended)
 ----
 
 
@@ -126,6 +148,8 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 
 ## Other Features
+- Weapon scale fixed
+- Character scale fixed
 - Bullet spread reduced when not aiming
 - Weapon sway and magnetism removed
 - Aiming walk speed increased
@@ -139,7 +163,7 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 - Scale fixes included so no need for extra "scale-fix" pak mods
 - Crouching heights fixed (mainly for in Vents)
 - Fog/Mist/Smoke appearance now looks same in both eyes
-- Fixed LOD/Draw distance issues (can now no longer see the ground leveling)
+- Fixed LOD/Draw distance issues (some ground leveling still visible)
 - Fixed LOD/Draw distance changes when aiming
 - Some cvar tweaks
 - _Much more, .. Too many to list_
@@ -147,15 +171,21 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 
 ## Important Notes / FAQ's
-:question: _SteamVR keeps launching when I start the game after downgrading_
+:question: _SteamVR keeps launching when I start the game_
 
 :bulb: Add "-nohmd" to the game's Launch Properties
 
 ---
 
-:question: _Game is crashing and/or won't launch after downgrading_
+:question: _Game is crashing and/or won't launch_
 
-:bulb: Add "-nohmd" to the game's Launch Properties
+:bulb: If you used the older v1028 mod REMOVE "-nohmd" from the game's Launch Properties
+
+---
+
+:question: _Some cut-scenes have no subtitles_
+
+:bulb: The UI has been removed to remove black bars from cut-scenes, this means that the subtitles for those parts are also invisible
 
 ---
 
@@ -174,29 +204,6 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 :question: _In the Metro scene where you shoot a Terminator on the floor you lose aiming_
 
 :bulb: Simply walk forwards until you hear Jennifer/Baron talk, aiming will return.
-
----
-
-:question: _Black bars (top and bottom) of Cut-Scenes_
-
-:bulb: This is caused by resolution, use any of the below resolutions to remove the black bars during cut-scenes.
-
-1. Select one that is nearest to your default resolution
-2. Go to "\AppData\Local\Terminator\Saved\Config\WindowsNoEditor"
-3. Open "GameUserSettings.ini" in any text editor
-4. Change ALL  lines that contain "Resolution" and  "DesiredScreen" to reflect one of the resolutions below
-
-    (ie ResolutionSizeX=1920 / ResolutionSizeY=1011) 
-
-    1920 x 1011 
-
-    2048 x 1078 
-
-    2880 x 1516 
-
-    3072 x 1620 
-
-    3840 x 2021 
 
 ---
 
