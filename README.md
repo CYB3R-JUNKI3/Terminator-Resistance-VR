@@ -177,12 +177,6 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 ---
 
-:question: _SteamVR keeps launching when I start the game_
-
-:bulb: Add "-nohmd" to the game's Launch Properties
-
----
-
 :question: _Game is crashing and/or won't launch_
 
 :bulb: If you used the older v1028 mod REMOVE "-nohmd" from the game's Launch Properties
