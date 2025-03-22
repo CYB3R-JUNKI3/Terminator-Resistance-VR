@@ -171,6 +171,12 @@ Thank you AcknowledgedPawn for your valuable feedback and testing :pray:
 
 
 ## Important Notes / FAQ's
+:question: _My Loading or "Press to Continue" screen is blank_
+
+:bulb: Bug due to UEVR being UN-responsive during loading screens in this game, just press any button to continue
+
+---
+
 :question: _SteamVR keeps launching when I start the game_
 
 :bulb: Add "-nohmd" to the game's Launch Properties
